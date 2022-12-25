@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+  int ch; 
+  printf("C\n",&ch);
+  scanf("C",&ch);
+  printf("Language\n");
+  scanf("Language",&ch);
+  printf("Welcome To C!!");
+  scanf("Welcome To C!!",&ch);
+}
